@@ -2,12 +2,9 @@ function flag = set_ops(varargin)
 %% SET_OPS
 %
 %   The function set_ops provides to change important data to adjust information about evaluation.
-%   The important data: language of toolbox, information subject to name,
-%   fomula of trivial-name of substance, and the latest version of toolbox.
+%   The important data: language of toolbox, information subject to name.
 %
-%   SEE ALSO: GET_OPS, SELF_OPS.
-%
-%   LAST UPDATE: 2020-04-26.
+%   LAST UPDATE: 2020-07-20.
 %
 %% Initialize global variable OPS
 global ops
