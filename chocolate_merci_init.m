@@ -1,0 +1,3 @@
+function chocolate_merci_init
+self_ops_merci()
+end
